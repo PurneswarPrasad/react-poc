@@ -1,0 +1,19 @@
+.form-control {
+  width: 50%;
+  margin: auto;
+  display: block;
+}
+
+.main-body {
+  margin-top: 50px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(166, 81, 209);
+}
+
+button.btn.btn-primary {
+  margin-top: 25px;
+  padding-right: 160px;
+  padding-left: 160px;
+  background-color: rgb(172, 68, 207);
+}

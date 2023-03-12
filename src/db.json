@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "img": "https://image.digitalinsightresearch.in/uploads/imagelibrary/cbr/java.jpg",
+      "title": "Java",
+      "description": "Java is one of the most popular and widely used programming languages.Java is Object Oriented. However, it is not considered as pure object-oriented as it provides support for primitive data types (like int, char, etc).The Java codes are first compiled into byte code (machine-independent code). Then the byte code runs on Java Virtual Machine (JVM) regardless of the underlying architecture."
+    },
+    {
+      "img": "http://2.bp.blogspot.com/-1lsXAuaZ5Cs/VLi5g8nQTmI/AAAAAAAACEs/KZdJRzgVP9Q/s1600/javascript-logo-png.png",
+      "title": "JavaScript (JS)",
+      "description": "JavaScript (js) is a light-weight object-oriented programming language which is used by several websites for scripting the webpages. It is an interpreted, full-fledged programming language that enables dynamic interactivity on websites when applied to an HTML document."
+    },
+    {
+      "img": "https://miro.medium.com/max/4096/1*UtlEafDhb9EzAzRYl7P5kw.png",
+      "title": ".Net",
+      "description": ".NET is a free, cross-platform, open source developer platform for building many kinds of applications. .NET is built on a high-performance runtime that is used in production by many high-scale apps."
+    },
+    {
+      "img": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/04/06122523/shutterstock_1564856881-1.jpg",
+      "title": "C++",
+      "description": "C++ is a high-level general-purpose programming language, first released in 1985 as an extension of the C programming language.The language has expanded significantly over time, and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM, so it is available on many platforms."
+    },
+    {
+      "img": "https://www.stoodnt.com/blog/wp-content/uploads/2017/12/20171214094836_Machine-Learning-1024x640.jpg",
+      "title": "Machine Learning",
+      "description": "Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed. ML is one of the most exciting technologies that one would have ever come across. As it is evident from the name, it gives the computer that makes it more similar to humans: The ability to learn. Machine learning is actively being used today, perhaps in many more places than one would expect."
+    }
+  ]
+}
